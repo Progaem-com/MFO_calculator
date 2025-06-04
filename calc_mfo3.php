@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Зелено-желтый калькулятор займов</title>
+    <title>Зелено-желтый калькулятор займов https://progaem.com/ </title>
 
     <style>
         .loan-calculator-app {
